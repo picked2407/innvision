@@ -90,7 +90,7 @@ const NavBar = () => {
           <nav className="lg:container md:px-6 flex justify-between items-center">
             <div className="py-5 text-color-secondary font-bold text-3xl">
               <Link href="/" className="ease-in duration-200">
-                <span className="text-white">Nextjs</span>14
+                <span className="text-white">Inn</span>vision
               </Link>
             </div>
             <div>
@@ -122,24 +122,7 @@ const NavBar = () => {
                     Testimonial
                   </Link>
                 </li>
-                <li>
-                  <Link
-                    href="#pricing"
-                    className="hover:text-color-secondary ease-in duration-200 nav_Link"
-                    onClick={handleSmoothScroll}
-                  >
-                    Pricing
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="#blog"
-                    className="hover:text-color-secondary ease-in duration-200 nav_Link"
-                    onClick={handleSmoothScroll}
-                  >
-                    Blog
-                  </Link>
-                </li>
+
                 <li>
                   <Link
                     href="#contact"
@@ -150,7 +133,7 @@ const NavBar = () => {
                   </Link>
                 </li>
                 <li>
-                  <button className="btn">Free Trial</button>
+                  <button className="btn"><a href="">Get started</a></button>
                 </li>
               </ul>
             </div>
