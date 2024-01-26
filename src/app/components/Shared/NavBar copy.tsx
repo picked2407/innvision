@@ -101,7 +101,7 @@ const NavBar = () => {
             <div className="py-5 text-color-secondary font-bold text-3xl">
               <Link href="/" legacyBehavior>
                 <a>
-                  <span className="text-white">Dhaka</span>Client
+                  <span className="text-white">Inn</span>vision
                 </a>
               </Link>
             </div>
@@ -132,19 +132,8 @@ const NavBar = () => {
                     </a>
                   </Link>
                 </li>
+            
                 <li>
-                  <Link href="#pricing" legacyBehavior>
-                    <a className="hover:text-color-secondary ease-in duration-200">
-                      Pricing
-                    </a>
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#blog" legacyBehavior>
-                    <a className="hover:text-color-secondary ease-in duration-200">
-                      Blog
-                    </a>
-                  </Link>
                 </li>
                 <li>
                   <Link href="#contact" legacyBehavior>
@@ -152,9 +141,6 @@ const NavBar = () => {
                       Contact Us
                     </a>
                   </Link>
-                </li>
-                <li>
-                  <button className="btn">Free Trial</button>
                 </li>
               </ul>
             </div>
@@ -211,16 +197,7 @@ const NavBar = () => {
                     </a>
                   </Link>
                 </li>
-                <li>
-                  <Link href="#blog" legacyBehavior>
-                    <a
-                      className="hover:text-color-secondary ease-in duration-200"
-                      id="hLink"
-                    >
-                      Blog
-                    </a>
-                  </Link>
-                </li>
+               
                 <li>
                   <Link href="#contact" legacyBehavior>
                     <a
@@ -232,7 +209,7 @@ const NavBar = () => {
                   </Link>
                 </li>
                 <li>
-                  <button className="btn">Free Trial</button>
+                  <button className="btn"><a href="">Get Started</a></button>
                 </li>
               </ul>
             </div>
