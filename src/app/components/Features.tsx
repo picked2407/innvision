@@ -11,7 +11,7 @@ const Features = () => {
                         Our Feature's
                     </h4>
                     <h1 className="title">
-                        Easy To Manage Your All Payments By Our App
+                    InnVision: Timely, Affordable, Quality Web Development.
                     </h1>
                 </div>
                 <Card />
