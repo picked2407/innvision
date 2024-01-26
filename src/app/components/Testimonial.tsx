@@ -38,7 +38,7 @@ const Testimonial = () => {
                         User Review
                     </h4>
                     <h1 className="title">
-                        What Client's Say About Our App After Using It
+                        What Client's Say About us
                     </h1>
                 </div>
                 <div className="mt-8">
@@ -82,58 +82,43 @@ const Testimonial = () => {
                     <div className="grid place-items-center text-center m-auto md:w-4/5 min-h-[40vh]">
                         <div className="user-text active-text">
                             <p className="md:text-2xl mb-6">
-                                This should be used to tell a story and include
-                                any testimonials you might have about your
-                                product or service for your clients!
+                            Incredible Results! Our website went from bland to grand thanks to Innvision. The team's expertise and creativity transformed our online presence. Highly recommended
                             </p>
                             <h4 className="font-bold text-color-secondary">
                                 Markin Nesus
                             </h4>
-                            <p>Mern Stack</p>
                         </div>
                         <div className="user-text">
                             <p className="md:text-2xl mb-6">
-                                This should be used to tell a story and include
-                                any testimonials you might have about your
-                                product or service for your clients!
+                            TInnVision Rocks! Fast, efficient, and spot-on. The communication was smooth, and our website now stands out. Thanks, InnVision, for making our online presence shine
                             </p>
                             <h4 className="font-bold text-color-secondary">
                                 Jhon Doe
                             </h4>
-                            <p>Full Stack</p>
                         </div>
                         <div className="user-text">
                             <p className="md:text-2xl mb-6">
-                                This should be used to tell a story and include
-                                any testimonials you might have about your
-                                product or service for your clients!
+                            Choose InnVision! A top-notch experience. They grasped our vision, provided valuable insights, and created a website that truly reflects our brand. InnVision is the go-to agency
                             </p>
                             <h4 className="font-bold text-color-secondary">
                                 Mark Nesus
                             </h4>
-                            <p>Ios Developer</p>
                         </div>
                         <div className="user-text">
                             <p className="md:text-2xl mb-6">
-                                This should be used to tell a story and include
-                                any testimonials you might have about your
-                                product or service for your clients!
+                            InnVision = Game-Changer! They took our website to the next level—user-friendly, visually stunning, and a traffic magnet. If you need web development, don't think twice, go with InnVision!
                             </p>
                             <h4 className="font-bold text-color-secondary">
                                 Markin Nesus
                             </h4>
-                            <p>Ui/Ux Designer</p>
                         </div>
                         <div className="user-text">
                             <p className="md:text-2xl mb-6">
-                                This should be used to tell a story and include
-                                any testimonials you might have about your
-                                product or service for your clients!
+                            InnVision Delivers Excellence! Our journey with InnVision was exceptional. From concept to execution, they demonstrated professionalism and brilliance. Our website now stands as a testament to their expertise. InnVision is the real deal!
                             </p>
                             <h4 className="font-bold text-color-secondary">
                                 Pathan Nesus
                             </h4>
-                            <p>Python Developer</p>
                         </div>
                     </div>
                 </div>
