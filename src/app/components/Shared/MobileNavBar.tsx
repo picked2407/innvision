@@ -58,7 +58,7 @@ const MobileNavBar = () => {
       <nav className="nav_mobile container">
         <div className="py-5 text-color-secondary font-bold text-3xl">
           <Link href="/">
-            <span className="text-red-100">Nextjs</span>14
+            <span className="text-red-100">Inn</span>vision
           </Link>
         </div>
         <div className="nav__menu" id="nav-menu">
@@ -89,24 +89,6 @@ const MobileNavBar = () => {
                 onClick={handleSmoothScroll}
               >
                 <i className="fa fa-file nav__icon"></i> Testimonial
-              </Link>
-            </li>
-            <li className="nav__item">
-              <Link
-                href="#pricing"
-                className="nav__link"
-                onClick={handleSmoothScroll}
-              >
-                <i className="fa fa-briefcase nav__icon"></i> Pricing
-              </Link>
-            </li>
-            <li className="nav__item">
-              <Link
-                href="#blog"
-                className="nav__link"
-                onClick={handleSmoothScroll}
-              >
-                <i className="fa fa-book nav__icon"></i> Blog
               </Link>
             </li>
             <li className="nav__item">
