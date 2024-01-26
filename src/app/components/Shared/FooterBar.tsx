@@ -6,12 +6,11 @@ const FooterBar = () => {
           <div className="grid gap-10 md:grid-cols-3 pb-10">
             <div className="space-y-6">
               <h4 className="font-bold text-lg">
-                About <span className="text-color-secondary">Nextjs</span>
-                14
+                About <span className="text-color-secondary">Inn</span>
+                vision
               </h4>
               <p className="leading-relaxed">
-                This Should Be Used To Tell A Story And Include Any Testimonials
-                You Might Have About Your Product Or Service For Your Clients
+              This is InnVision, where innovation converges with expertise. We excel in services like chatbot development, lead generation, cold email strategies, market intel AI insights, and graphic designing. Our mission is straightforward: to empower your digital success. Explore our diverse services and embark on the journey to digital excellence with us.
               </p>
               <div className="flex gap-5 items-center">
                 <p>Follow Us</p>
@@ -29,45 +28,17 @@ const FooterBar = () => {
                     <a href="#">Home</a>
                   </li>
                   <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Features</a>
+                    <a href="#features">Features</a>
                   </li>
                   <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Testimonial</a>
+                    <a href="#testimonial">Testimonial</a>
                   </li>
                   <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Pricing</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Blog</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Contact</a>
+                    <a href="#contact">Contact us</a>
                   </li>
                 </ul>
               </div>
-              <div className="space-y-6">
-                <h4 className="font-bold text-lg">Help</h4>
-                <ul className="space-y-3">
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">About Us</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Partners</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Career</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Reviews</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Terms & Conditions</a>
-                  </li>
-                  <li className="underline hover:no-underline hover:text-color-secondary">
-                    <a href="#">Help</a>
-                  </li>
-                </ul>
-              </div>
+             
             </div>
             <div className="space-y-6">
               <h4 className="font-bold text-lg">Newsletter</h4>
@@ -92,8 +63,8 @@ const FooterBar = () => {
           </div>
           <div className="flex justify-center pt-10 border-t border-color-gray">
             <p className="p-5">
-              2023 &copy; <span className="text-color-secondary">Nextjs</span>
-              14. All Rights Reserved.
+              2024 &copy; <span className="text-color-secondary">Inn</span>
+              vision. All Rights Reserved.
             </p>
           </div>
         </div>
